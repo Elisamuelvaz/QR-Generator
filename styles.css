@@ -31,7 +31,7 @@ h1 {
   padding: 20px;
   border: 2px solid #008ac9;
   border-radius: 10px;
-  background: linear-gradient(145deg, #000000, #1c1c1c);
+  background: linear-gradient(145deg, #000000, #000000);
   box-shadow: 10px 10px 20px #000000, -10px -10px 20px #1c1c1c;
   max-width: 400px;
   width: 100%;
